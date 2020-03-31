@@ -1,4 +1,6 @@
 # Digital Marketing - AAA Business Case
+The main focus on this project was to come up with a business plan to increase revenue and customer conversion. Python was used to analysed the AAA membership dataset. 
+
 ### How to increase customer conversion and revenue 
 
 What you can find this this repertory:
